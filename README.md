@@ -14,9 +14,9 @@ Download the project from github and unzip the file and enjoy
 
 👤 **Author1**
 
-- GitHub: https://github.com/Danelif
-  -Twitter :https://twitter.com/DanElfemuk
-  Linkedin : https://www.linkedin.com/in/dan-elifeleti-5811a3106/
+-GitHub: https://github.com/Danelif
+-Twitter :https://twitter.com/DanElfemuk
+-Linkedin : https://www.linkedin.com/in/dan-elifeleti-5811a3106/
 
 ## 🤝 Contributing
 
